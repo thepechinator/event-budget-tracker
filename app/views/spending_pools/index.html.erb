@@ -1,0 +1,35 @@
+<h1>Listing spending_pools</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Source</th>
+      <th>Amount</th>
+      <th>Description</th>
+      <th>Received on</th>
+      <th>Event</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @spending_pools.each do |spending_pool| %>
+      <tr>
+        <td><%= spending_pool.source %></td>
+        <td><%= spending_pool.amount %></td>
+        <td><%= spending_pool.description %></td>
+        <td><%= spending_pool.received_on %></td>
+        <td><%= spending_pool.event %></td>
+        <td><%= link_to 'Show', spending_pool %></td>
+        <td><%= link_to 'Edit', edit_spending_pool_path(spending_pool) %></td>
+        <td><%= link_to 'Destroy', spending_pool, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Spending pool', new_spending_pool_path %>

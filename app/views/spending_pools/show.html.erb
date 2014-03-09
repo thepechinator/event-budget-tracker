@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Source:</strong>
+  <%= @spending_pool.source %>
+</p>
+
+<p>
+  <strong>Amount:</strong>
+  <%= @spending_pool.amount %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @spending_pool.description %>
+</p>
+
+<p>
+  <strong>Received on:</strong>
+  <%= @spending_pool.received_on %>
+</p>
+
+<p>
+  <strong>Event:</strong>
+  <%= @spending_pool.event %>
+</p>
+
+<%= link_to 'Edit', edit_spending_pool_path(@spending_pool) %> |
+<%= link_to 'Back', spending_pools_path %>
