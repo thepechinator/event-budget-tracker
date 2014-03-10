@@ -12,4 +12,13 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require underscore
+//= require backbone-1.1.2
+//= require backbone.marionette
+//= require event_budget_tracker
+//= require_tree ../templates
+//= require_tree ./models
+//= require_tree ./collections
+//= require_tree ./views
+//= require_tree ./routers
 //= require_tree .
