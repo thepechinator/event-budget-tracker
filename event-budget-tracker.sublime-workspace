@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/presenters/post_presenter.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/unit/entry_test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/helpers/entry_helper.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/post/post.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/helpers/omniture_helper.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/post/entry.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/entry_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/collection_item.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/initializers/ad_constants.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/_redesign/common/_right_rail.html.haml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/presenters/vertical_presenter.rb",
+		"/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/collection/collection_schema.xsd",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/common/_ad_tags.html.erb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/entry/omniture.yml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/environment.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/application_controller.rb",
+		"/Users/paulpechin/Work/rails/otto/trunk/lib/targeted_centers/external_targeted_condition_centers.yml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/lib/tasks/cache/cache.rake",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/_redesign/common/_phase_navigation.html.erb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/_redesign/entry/_view.html.haml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/sharing_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/functional/entry_controller_test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/environments/development.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/environments/production.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/db/schema.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/_redesign/common/_more_on_this_topic.html.haml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/_redesign/entry/_contents.html.haml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/_redesign/common/_sub_category_header.html.erb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/helpers/application_helper/includes.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/lib/remote_data_retrieval/deferrable_data.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/lib/remote_data_retrieval/base.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/layouts/application.rhtml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/_redesign/social/_sharing.html.erb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/functional/sharing_controller_test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/profile_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/helpers/application_helper.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/_redesign/common/_footer.html.erb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/_redesign/common/_header.html.erb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/public/javascripts/tiny_mce/plugins/fullpage/editor_plugin_src.js",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/public/javascripts/tiny_mce/plugins/media/js/media.js",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/public/javascripts/tiny_mce/plugins/media/editor_plugin_src.js",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/public/javascripts/tiny_mce/tiny_mce_src.js",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/vendor/gems/tiny_mce-0.1.0/lib/tiny_mce/assets/tiny_mce/plugins/media/js/media.js",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/public/with_youtube_lb.html",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/unit/entry_paginator_test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/unit/presenters/vertical_presenter_test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/entry_paginator.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/drupal_synchronizer.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/environments/qa.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/lib/condition_center/condition_center.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/factories/post_factory.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/mocks/test/includes.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/weblog/weblog.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/membership_level.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/collection/collection_synchronizer.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/_redesign/entry/_comment.html.haml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/environments/test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/fixtures/collection/collection_valid.xml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/taxonomy/sub_category.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/unit/collection/collection_synchronizer_test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/fixtures/taxonomy/taxonomy_valid.xml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/unit/taxonomy/sub_category_test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/sweepers/cache_keys.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/layouts/patient_journey/navigation/_pj_navigation.html.erb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/factories/vertical_factory.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/fixtures/tags.yml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/deploy.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/entry/view.rhtml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/question_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/profile.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/users/user.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/deploy/qa.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/deploy/production.rb",
+		"/Users/paulpechin/.bash_profile",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/common/_community_box_outbrain.html.erb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/helpers/cache_helper.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/public/javascripts/personas.js",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/login_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/lib/supports_login/supports_login.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/functional/answer_question_controller_test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/common/_community_box.rhtml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/_redesign/entry/page_info/_page_info.html.erb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/weblog/create_include.rhtml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/login/xhr_login_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/photo/_lightbox_photo_thumb.rhtml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/lib/tiny_mce/tiny_mce.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/lib/tasks/db.rake",
+		"/Users/paulpechin/Work/rails/shareposts/branches/sp_bundle_install_20130703/config/environments/test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/database.yml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/lib/otto/client.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/pj_topics_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/public/404.rhtml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/deploy/admin.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/views/weblog/_avatar_rollover.rhtml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/vertical.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/vendor/gems/deactivatable-0.1.1/lib/deactivatable.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/weblog_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/sp-trunk.sublime-workspace",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/environments/admin.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/initializers/bug_fixes.rb",
+		"/etc/my.cnf",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/watch_this_subscription/anonymous_watch_this_subscription.rb",
+		"/private/etc/my.cnf",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/deploy/alpha.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/lib/pj_lib/models/pj_navigation_descriptor.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/admin/stats/stats_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/admin/patient_journeys_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/routes/admin_routes.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/lib/pj_lib/client.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/unit/patient_journey/patient_journey_test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/fixtures/admin/feed/rds_shallow_mode.xml",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/helpers/message_helper.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/REVISION",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/test/functional/login/standard_login_controller_test.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/response/response.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/admin/pj_groups_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/patient_journey/pj_group.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/admin/feed/rds_feed_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/config/initializers/passenger.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/users/standard_user.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/users/facebook_user.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/hearts_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/controllers/admin/tags_controller.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/models/tag.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/app/helpers/activity_feed_helper.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/vendor/plugins/active_scaffold/lib/active_scaffold/locale/en.rb",
+		"/Users/paulpechin/Work/rails/shareposts/trunk/vendor/plugins/active_scaffold/environment.rb"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/paulpechin/Work/rails/shareposts/trunk/public/javascripts/tiny_mce/",
+			"/Users/paulpechin/Work/rails/shareposts/trunk/",
+			"/Users/paulpechin/Work/rails/shareposts/trunk/test",
+			"/Users/paulpechin/Work/rails/shareposts/trunk/",
+			"/Users/paulpechin/Work/rails/shareposts/trunk/test",
+			"/Users/paulpechin/Work/rails/shareposts/trunk/",
+			"/Users/paulpechin/Work/rails/shareposts/trunk/public/javascripts/tiny_mce",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tax_id",
+			"\\\\\\",
+			"redesigned_view",
+			"get_pages_and_contents_or_redirect",
+			"redesigned",
+			"post_presenter",
+			"@post_presenter",
+			"@entry.setup_ad_tags",
+			"omniture_assigns",
+			"ad_site",
+			"omniture",
+			"ad_site_name",
+			"view_comments",
+			"setup_ad_tags",
+			"setup_view_variables",
+			"\nhttp://drupalqa.healthcentral.choicemedia.com/shared-templates/html/theme/87/hcn_right_rail_st?blogpost_id=8363&page_type=st",
+			"view_comments",
+			"header_include_path",
+			"collection_item",
+			"setup_view_variables",
+			"page_type",
+			"ad_community",
+			"comment",
+			"expert_comment",
+			"comment",
+			"ads_exclude_community",
+			"@ads_exclude_community",
+			"EXCLUSION_CAT",
+			"MMore",
+			"test_ad_tags",
+			"ad_categories",
+			"initializer",
+			"page_type",
+			"cm.own.tcc",
+			"@vertical",
+			"vertical_presenter",
+			"ad",
+			"collection",
+			"collection(",
+			"collection",
+			"items",
+			"title",
+			"facebook",
+			"getAuthResponse",
+			"sponsor_name",
+			"TemplateEngine",
+			"DeferrableData",
+			"RemoteDataRetrieval",
+			"@remote_data_retriever",
+			"remote_data_retriever",
+			"include_by_http",
+			"<esi",
+			"esi",
+			"include_by_http",
+			"url",
+			"external_id",
+			"drupal.branches2",
+			"drupal",
+			"3002",
+			"Serializer",
+			"serializer",
+			"editor",
+			"editor =",
+			"data",
+			"Node",
+			"node",
+			"img =",
+			"iframe",
+			"node",
+			"node =",
+			"node",
+			"iframe",
+			".add",
+			"moveStates",
+			"YouTube",
+			"tiny_mce",
+			"setAttribute",
+			"ENTRY_PAGINATED_CONTENTS",
+			"entry_sweeper",
+			"sponsor_name",
+			"<?",
+			"2114327898001",
+			"1480107458",
+			"strip_tags",
+			"strip_blank_space",
+			"strip_tags",
+			"page_break",
+			"strip_tags",
+			"PAGE_BREAK_ELEMENTS",
+			"strip_blank_space",
+			"page_break",
+			"break_would_exceed_page_limit",
+			"parse_element",
+			"brightcove",
+			"brightcovw",
+			"collection",
+			"collection_item",
+			"collection",
+			"collection_item",
+			"collection",
+			"insert_inset_ad",
+			"CacheKeys",
+			"CacheKeys::ENTRY_PAGINATED_CONTENTS",
+			"vertical",
+			"@vertical",
+			"reload",
+			"@entry.save!",
+			"EntryPaginator",
+			"get_pages_and_contents_or_redirect",
+			"ad_site",
+			"setup_view_variables",
+			"def view",
+			"condition_center.ad_site",
+			"condition_center",
+			"@condition_center",
+			"@condition_center.ad_site",
+			"@vertical_presenter",
+			"ad_site",
+			"setup_meta",
+			"def clear_drupal(vertical)",
+			"clear_drupal",
+			"VERTICAL",
+			"rake cache:clear_include",
+			"url",
+			"view",
+			"phase nav",
+			"TODO",
+			"phase nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"qa",
+			"[].tap",
+			"image-url('global/daily_dose/right_rail/sprite.png')"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true
+}
