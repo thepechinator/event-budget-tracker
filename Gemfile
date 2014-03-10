@@ -48,6 +48,8 @@ group :test, :development do
   gem 'guard-rspec', require: false
 end
 
+gem 'js-routes'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
