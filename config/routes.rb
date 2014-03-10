@@ -1,10 +1,7 @@
 EventBudgetTracker::Application.routes.draw do
   resources :payments
-
   resources :expenses
-
   resources :spending_pools
-
   resources :events
 
   # The priority is based upon order of creation: first created -> highest priority.
