@@ -1,9 +1,15 @@
-window.EventBudgetTracker =
-  Models: {}
-  Collections: {}
-  Views: {}
-  Routers: {}
-  initialize: -> alert 'Hello from Backbone!'
+EventBudgetTracker = new Marionette.Application()
 
-$(document).ready ->
-  EventBudgetTracker.initialize()
+  # Models: {}
+  # Collections: {}
+  # Views: {}
+  # Routers: {}
+  # initialize: -> alert 'Hello from Backbone!'
+
+EventBudgetTracker.on("initialize:after", ->
+	if (Backbone.history)
+		Backbone.history.start()
+
+		if (@.getCurrentRoute() == "")
+			EventBudgetTracker.trigger("")
+)
