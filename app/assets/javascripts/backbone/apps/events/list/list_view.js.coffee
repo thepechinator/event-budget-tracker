@@ -7,16 +7,15 @@
 
     regions:
       panelRegion: "#panel-region"
-      asideRegion: "#aside-region"
-      tableRegion: "#table-region"
+      eventsRegion: "#events-region"
 
   class List.Panel extends Marionette.ItemView
     template: "events/list/templates/_panel"
 
   class List.Event extends Marionette.ItemView
     template: "events/list/templates/_event"
-    events:
-      "click a.edit": -> @trigger "edit:user", @model
+    # events:
+    #   "click a.edit": -> @trigger "edit:user", @model
 
   class List.Events extends Marionette.CompositeView
     template: "events/list/templates/_events"
