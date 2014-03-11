@@ -5,9 +5,9 @@
   App.rootRoute = Routes.events_path()
 
   App.addRegions
-    headerRegion: "#header-region"
-    mainRegion: "#main-region"
-    footerRegion: "#footer-region"
+    headerRegion: ".header"
+    mainRegion: ".main"
+    footerRegion: ".footer"
 
   App.addInitializer ->
     # do something with modules

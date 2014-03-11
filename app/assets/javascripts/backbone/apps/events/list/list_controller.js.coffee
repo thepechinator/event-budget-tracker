@@ -16,11 +16,13 @@
         App.mainRegion.show(@layout)
       )
 
-    # Show Events
+    # Show Different Views
+    #
+    #
     showEvents: (events) ->
       eventsView = @getEventsView(events)
-      # eventsView.on "itemview:edit:event", (iv, event) ->
-      #   App.vent.trigger("edit:event", event)
+      eventsView.on "itemview:show:event", (iv, event) ->
+        App.vent.trigger("show:event", event)
 
       # console.log eventsView
       @layout.eventsRegion.show(eventsView)
@@ -28,8 +30,12 @@
     # Panel Code
     showPanel: (events) ->
       panelView = @getPanelView(events)
-      @layout.panelRegion.show(panelView)
+      @layout.eventsRegion.show(panelView)
 
+
+    # Retrieve actual view
+    #
+    #
     getEventsView: (events) ->
       new List.Events(
         collection: events

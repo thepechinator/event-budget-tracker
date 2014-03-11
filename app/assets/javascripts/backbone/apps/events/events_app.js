@@ -14,9 +14,9 @@
       // editEvent: function(id) {
       //   EventsApp.Edit.Controller.editEvent(id);
       // },
-      // showEvent: function(id) {
-      //   EventsApp.Show.Controller.showEvent(id);
-      // },
+      showEvent: function(id) {
+        EventsApp.Show.Controller.showEvent(id);
+      },
       listEvents: function() {
         EventsApp.List.Controller.listEvents();
       }
@@ -29,7 +29,11 @@
       // API.editEvent(event.id);
     });
 
-
+    App.vent.on("show:event", function(event) {
+      // this will NOT fire the router calls, which is GOOD
+      // Backbone.history.navigate("events/" + event.id + "/edit");
+      API.showEvent(event.id);
+    });
 
 
     App.addInitializer(function() {
